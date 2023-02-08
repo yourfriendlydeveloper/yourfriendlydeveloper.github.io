@@ -1,0 +1,1 @@
+<script type="text/javascript" src="//widget.weatherproof.fi/weather/js/header.js" charset="utf-8"></script><script type="text/javascript">var z = fmi.saa.Header.construct(654899, "#saa-widget",  64.22728, "fi");</script><a href="/saa"><div id="saa-widget" style="width:300px; height:90px; color:black"></div></a>
